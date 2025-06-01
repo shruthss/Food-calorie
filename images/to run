@@ -1,0 +1,9 @@
+'cd /
+activate food
+cd project/food
+cd "calories-burned Phase-I"
+streamlit run calories-prediction-streamlit.py
+
+cd ..
+cd "food-nutrients Phase-II"
+npm start
